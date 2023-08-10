@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/cutifyadmin/static/js/main.b2461426.js",
+    "main.js": "/cutifyadmin/static/js/main.79190160.js",
     "index.html": "/cutifyadmin/index.html",
-    "main.b2461426.js.map": "/cutifyadmin/static/js/main.b2461426.js.map"
+    "main.79190160.js.map": "/cutifyadmin/static/js/main.79190160.js.map"
   },
   "entrypoints": [
-    "static/js/main.b2461426.js"
+    "static/js/main.79190160.js"
   ]
 }
